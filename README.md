@@ -1,6 +1,6 @@
 # ManuelOrozcoVelasco
-Aquí subo algunas de las cosas que se hacer como código HTML CSS Java JavaScript 
-Muchos de los proyectos los he hecho durante mi formación y otros de forma independiente
+Aquí subo algunas de las cosas que se hacer como código HTML CSS Java JavaScript |
+Muchos de los proyectos los he hecho durante mi formación y otros de forma independiente 
 
 ## 🎯 Mi enfoque
 Diseño apps pensando primero en la persona que las usa:
